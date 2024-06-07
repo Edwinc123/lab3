@@ -1,0 +1,20 @@
+h2,h3,h4,h5,h6{
+  background-color: #a85dee		;
+ color:#f1f1f1;
+  font-family: cursive;
+}
+hr{
+  color:#68afee;
+}
+body{
+  background-color: lavender;
+}
+p{
+  background-color: wheat;
+ color: rosybrown ;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 6px;
+  border-radius: 10%;
+  border-color: blanchedalmond;
+  border-style: dashed;
+} 
